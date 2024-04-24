@@ -1,0 +1,8 @@
+.search-box {
+  position: relative;
+}
+#med-list {
+  position: absolute;
+  top: 30px;
+  background-color: beige;
+}
